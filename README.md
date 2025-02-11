@@ -1,2 +1,3 @@
 # RevAPIDocs
-Repository to log issues and improve RevAPIDocs.com
+
+Repository to log issues and improve the Revit API Online Documentation at [RevAPIDocs.com](http://revapidocs.com/)
